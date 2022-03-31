@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x43dF1431BA2F733F07E29d08Bc95f7e1a9fE9b56",
+  "SCAN_LINK": "https://etherscan.io/address/0x43dF1431BA2F733F07E29d08Bc95f7e1a9fE9b56",
+  "NETWORK": {
+    "NAME": "Etherum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Hungry Sausages",
+  "SYMBOL": "HS",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 500000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hungry-sausages-v2",
+  "SHOW_BACKGROUND": true
+}
